@@ -16,6 +16,9 @@ import me.m_3.tiqoL.coreloader.Core;
 public class Main extends Core{
 	
 	ClickHandler clickHandler;
+	CheckboxHandler checkboxHandler;
+	TextInputHandler textInputHandler;
+
 	
 	static org.slf4j.Logger Logger = LoggerFactory.getLogger(Main.class);
 	
@@ -23,6 +26,8 @@ public class Main extends Core{
 	ServableFile logo;
 	
 	int clicks = 0;
+	boolean checked = false;
+	String text = "Start editing this ...";
 	
 	Nitrite db;
 
@@ -30,6 +35,8 @@ public class Main extends Core{
 		super(server , name);
 		
 		clickHandler = new ClickHandler(this);
+		checkboxHandler = new CheckboxHandler(this);
+		textInputHandler = new TextInputHandler(this);
 		
 		this.registerEventHandler(new Events(this));
 		

@@ -1,424 +1,367 @@
-{  
-   "insideText":"",
-   "css":{  
-
-   },
-   "children":[  
-      {  
-         "insideText":"",
-         "css":{  
-
-         },
-         "children":[  
-            {  
-               "insideText":"",
-               "css":{  
-
-               },
-               "children":[  
-                  {  
-                     "insideText":"",
-                     "css":{  
-
-                     },
-                     "children":[  
-                        {  
-                           "insideText":"",
-                           "css":{  
-
-                           },
-                           "children":[  
-                              {  
-                                 "insideText":"Welcome to Tiqo-L ",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-                                    "class":"card-title"
-                                 },
-                                 "id":"defaultCore.Welcome",
-                                 "type":"span",
-                                 "tiqoL-type":"object"
-                              },
-                              {  
-                                 "insideText":"Congratualtions for setting up your Tiqo Server! Everything you see on this site is served by the Tiqo server on your backend by the default core installed in /core",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-                                    {  
-                                       "insideText":"",
-                                       "css":{  
-
-                                       },
-                                       "children":[  
-
-                                       ],
-                                       "attributes":{  
-
-                                       },
-                                       "id":"8984eeb3-bca9-40d5-94dc-910e37571575",
-                                       "type":"br",
-                                       "tiqoL-type":"object"
-                                    }
-                                 ],
-                                 "attributes":{  
-
-                                 },
-                                 "id":"181b0004-a103-4f90-ab20-2571b9d7b595",
-                                 "type":"p",
-                                 "tiqoL-type":"object"
-                              }
-                           ],
-                           "attributes":{  
-                              "class":"card-content white-text"
-                           },
-                           "id":"e90e4852-38c4-45e8-ba69-c442055ac6b9",
-                           "type":"div",
-                           "tiqoL-type":"object"
-                        },
-                        {  
-                           "insideText":"",
-                           "css":{  
-
-                           },
-                           "children":[  
-                              {  
-                                 "insideText":"Refresh",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-                                    "href":"/"
-                                 },
-                                 "id":"375f3d5d-a7e7-4cbd-bd84-cd25adf4f505",
-                                 "type":"a",
-                                 "tiqoL-type":"object"
-                              }
-                           ],
-                           "attributes":{  
-                              "class":"card-action"
-                           },
-                           "id":"1edf4476-b75a-4390-8825-0dc491292480",
-                           "type":"div",
-                           "tiqoL-type":"object"
+{
+  "insideText": "",
+  "css": {},
+  "children": [
+    {
+      "insideText": "",
+      "css": {},
+      "children": [
+        {
+          "insideText": "",
+          "css": {},
+          "children": [
+            {
+              "insideText": "",
+              "css": {},
+              "children": [
+                {
+                  "insideText": "",
+                  "css": {},
+                  "children": [
+                    {
+                      "insideText": "Welcome to Tiqo-L ",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                        "class": "card-title"
+                      },
+                      "id": "defaultCore.Welcome",
+                      "type": "span",
+                      "tiqoL-type": "object"
+                    },
+                    {
+                      "insideText": "Congratualtions for setting up your Tiqo Server! Everything you see on this site is served by the Tiqo server on your backend by the default core installed in /core",
+                      "css": {},
+                      "children": [
+                        {
+                          "insideText": "",
+                          "css": {},
+                          "children": [],
+                          "attributes": {},
+                          "id": "8984eeb3-bca9-40d5-94dc-910e37571575",
+                          "type": "br",
+                          "tiqoL-type": "object"
                         }
-                     ],
-                     "attributes":{  
-                        "class":"card blue-grey darken-1"
-                     },
-                     "id":"4d958be5-46df-4532-952a-f9fd2f573636",
-                     "type":"div",
-                     "tiqoL-type":"object"
+                      ],
+                      "attributes": {},
+                      "id": "181b0004-a103-4f90-ab20-2571b9d7b595",
+                      "type": "p",
+                      "tiqoL-type": "object"
+                    }
+                  ],
+                  "attributes": {
+                    "class": "card-content white-text"
                   },
-                  {  
-                     "insideText":"",
-                     "css":{  
-
-                     },
-                     "children":[  
-                        {  
-                           "insideText":"",
-                           "css":{  
-
-                           },
-                           "children":[  
-                              {  
-                                 "insideText":"Tiqo is super dynamic and responsive",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-                                    "class":"card-title"
-                                 },
-                                 "id":"0964d913-5a64-4650-beb6-723353118849",
-                                 "type":"span",
-                                 "tiqoL-type":"object"
-                              },
-                              {  
-                                 "insideText":"This click counter is live. Just open another tab and see how fast it will update! Tiqo uses WebSockets to make real-time changes to HTML-Elements!",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-                                    {  
-                                       "insideText":"",
-                                       "css":{  
-
-                                       },
-                                       "children":[  
-
-                                       ],
-                                       "attributes":{  
-
-                                       },
-                                       "id":"f53b370e-dd6f-4de3-8b30-f4e53669ee7d",
-                                       "type":"br",
-                                       "tiqoL-type":"object"
-                                    }
-                                 ],
-                                 "attributes":{  
-
-                                 },
-                                 "id":"81032b8a-8ea7-4f15-88d8-a967e5bfc311",
-                                 "type":"p",
-                                 "tiqoL-type":"object"
-                              },
-                              {  
-                                 "insideText":"",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-
-                                 },
-                                 "id":"72fac202-4e53-42ac-a2ea-e64f9ce789a8",
-                                 "type":"br",
-                                 "tiqoL-type":"object"
-                              },
-                              {  
-                                 "insideText":"0 Clicks",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-                                    "face":"consolas",
-                                    "size":"23"
-                                 },
-                                 "id":"defaultCore.clickCounter",
-                                 "type":"font",
-                                 "tiqoL-type":"object"
-                              }
-                           ],
-                           "attributes":{  
-                              "class":"card-content"
-                           },
-                           "id":"e22993cd-df95-4c41-88ab-25efc6b0426a",
-                           "type":"div",
-                           "tiqoL-type":"object"
-                        },
-                        {  
-                           "insideText":"",
-                           "css":{  
-
-                           },
-                           "children":[  
-                              {  
-                                 "insideText":"Click me!",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-                                    "style":"color:white",
-                                    "href":"#"
-                                 },
-                                 "id":"defaultCore.clickMe",
-                                 "type":"a",
-                                 "tiqoL-type":"object",
-                                 "onclick_action":true
-                              }
-                           ],
-                           "attributes":{  
-                              "class":"card-action"
-                           },
-                           "id":"3853c99a-e8d1-470b-9c83-1bd7f48fe4da",
-                           "type":"div",
-                           "tiqoL-type":"object"
-                        }
-                     ],
-                     "attributes":{  
-                        "class":"card red darken-1"
-                     },
-                     "id":"0782b98b-8b8a-42a0-b3b3-74a2eba9033f",
-                     "type":"div",
-                     "tiqoL-type":"object"
+                  "id": "e90e4852-38c4-45e8-ba69-c442055ac6b9",
+                  "type": "div",
+                  "tiqoL-type": "object"
+                },
+                {
+                  "insideText": "",
+                  "css": {},
+                  "children": [
+                    {
+                      "insideText": "Refresh",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                        "href": "/"
+                      },
+                      "id": "375f3d5d-a7e7-4cbd-bd84-cd25adf4f505",
+                      "type": "a",
+                      "tiqoL-type": "object"
+                    }
+                  ],
+                  "attributes": {
+                    "class": "card-action"
                   },
-                  {  
-                     "insideText":"",
-                     "css":{  
-
-                     },
-                     "children":[  
-                        {  
-                           "insideText":"",
-                           "css":{  
-
-                           },
-                           "children":[  
-                              {  
-                                 "insideText":"This page was made using materialize-css",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-                                    "class":"card-title"
-                                 },
-                                 "id":"40fda843-1d4e-4df6-ac00-ccbf48837a8a",
-                                 "type":"span",
-                                 "tiqoL-type":"object"
-                              },
-                              {  
-                                 "insideText":"Tiqo supports most CSS and JavaScript libaries while still being super responsive and fully controlled by the backend!",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-
-                                 },
-                                 "id":"5316dcb1-6e4a-4bfd-9b87-263e99728bc8",
-                                 "type":"p",
-                                 "tiqoL-type":"object"
-                              },
-                              {  
-                                 "insideText":"",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-                                    {  
-                                       "insideText":"HTMLBox defaultBox = new HTMLBox(server , user);",
-                                       "css":{  
-
-                                       },
-                                       "children":[  
-
-                                       ],
-                                       "attributes":{  
-
-                                       },
-                                       "id":"685617a0-b482-40c4-b739-b6a535f02acf",
-                                       "type":"xmp",
-                                       "tiqoL-type":"object"
-                                    },
-                                    {  
-                                       "insideText":"defaultBox.fromJSON(new JSONObject(main.defaultSite));",
-                                       "css":{  
-
-                                       },
-                                       "children":[  
-
-                                       ],
-                                       "attributes":{  
-
-                                       },
-                                       "id":"6a19293e-b169-4aed-8c34-ed96003eea21",
-                                       "type":"xmp",
-                                       "tiqoL-type":"object"
-                                    },
-                                    {  
-                                       "insideText":"user.addHeaderTag(\"<link href=\"url\" rel=\"stylesheet\">\");",
-                                       "css":{  
-
-                                       },
-                                       "children":[  
-
-                                       ],
-                                       "attributes":{  
-
-                                       },
-                                       "id":"08509c5f-3b60-4987-9e49-b209e7d6564b",
-                                       "type":"xmp",
-                                       "tiqoL-type":"object"
-                                    }
-                                 ],
-                                 "attributes":{  
-                                    "face":"consolas"
-                                 },
-                                 "id":"30f56179-e949-4fc9-ade2-3781053b09cb",
-                                 "type":"font",
-                                 "tiqoL-type":"object"
-                              }
-                           ],
-                           "attributes":{  
-                              "class":"card-content"
-                           },
-                           "id":"278999a5-b20e-48af-8378-704a915808f1",
-                           "type":"div",
-                           "tiqoL-type":"object"
-                        },
-                        {  
-                           "insideText":"",
-                           "css":{  
-
-                           },
-                           "children":[  
-                              {  
-                                 "insideText":"Materialze",
-                                 "css":{  
-
-                                 },
-                                 "children":[  
-
-                                 ],
-                                 "attributes":{  
-                                    "href":"https://materializecss.com/"
-                                 },
-                                 "id":"fa13c1ca-098e-44a4-8b96-a31b72596b39",
-                                 "type":"a",
-                                 "tiqoL-type":"object"
-                              }
-                           ],
-                           "attributes":{  
-                              "class":"card-action"
-                           },
-                           "id":"c8324f77-c6e6-41a1-b75e-7b93a948e839",
-                           "type":"div",
-                           "tiqoL-type":"object"
+                  "id": "1edf4476-b75a-4390-8825-0dc491292480",
+                  "type": "div",
+                  "tiqoL-type": "object"
+                }
+              ],
+              "attributes": {
+                "class": "card blue-grey darken-1"
+              },
+              "id": "4d958be5-46df-4532-952a-f9fd2f573636",
+              "type": "div",
+              "tiqoL-type": "object"
+            },
+            {
+              "insideText": "",
+              "css": {},
+              "children": [
+                {
+                  "insideText": "",
+                  "css": {},
+                  "children": [
+                    {
+                      "insideText": "Tiqo is super dynamic and responsive",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                        "class": "card-title"
+                      },
+                      "id": "0964d913-5a64-4650-beb6-723353118849",
+                      "type": "span",
+                      "tiqoL-type": "object"
+                    },
+                    {
+                      "insideText": "This click counter is live. Just open another tab and see how fast it will update! Tiqo uses WebSockets to make real-time changes to HTML-Elements!",
+                      "css": {},
+                      "children": [
+                        {
+                          "insideText": "",
+                          "css": {},
+                          "children": [],
+                          "attributes": {},
+                          "id": "f53b370e-dd6f-4de3-8b30-f4e53669ee7d",
+                          "type": "br",
+                          "tiqoL-type": "object"
                         }
-                     ],
-                     "attributes":{  
-                        "style":"color:black",
-                        "class":"card"
-                     },
-                     "id":"866ee66d-699d-4d99-a209-ba7671c021dc",
-                     "type":"div",
-                     "tiqoL-type":"object"
-                  }
-               ],
-               "attributes":{  
-                  "class":"col s12 m6 offset-m3"
-               },
-               "id":"07567f8e-cb4a-4570-8e06-ec032025c8ee",
-               "type":"div",
-               "tiqoL-type":"object"
+                      ],
+                      "attributes": {},
+                      "id": "81032b8a-8ea7-4f15-88d8-a967e5bfc311",
+                      "type": "p",
+                      "tiqoL-type": "object"
+                    },
+                    {
+                      "insideText": "",
+                      "css": {},
+                      "children": [],
+                      "attributes": {},
+                      "id": "72fac202-4e53-42ac-a2ea-e64f9ce789a8",
+                      "type": "br",
+                      "tiqoL-type": "object"
+                    },
+                    {
+                      "insideText": "0 Clicks",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                        "face": "consolas",
+                        "size": "23"
+                      },
+                      "id": "defaultCore.clickCounter",
+                      "type": "font",
+                      "tiqoL-type": "object"
+                    }
+                  ],
+                  "attributes": {
+                    "class": "card-content"
+                  },
+                  "id": "e22993cd-df95-4c41-88ab-25efc6b0426a",
+                  "type": "div",
+                  "tiqoL-type": "object"
+                },
+                {
+                  "insideText": "",
+                  "css": {},
+                  "children": [
+                    {
+                      "insideText": "Click me!",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                        "style": "color:white",
+                        "href": "#"
+                      },
+                      "id": "defaultCore.clickMe",
+                      "type": "a",
+                      "tiqoL-type": "object",
+                      "onclick_action": true
+                    },
+                    {
+                      "css": {},
+                      "children": [
+                        {
+                          "css": {},
+                          "children": [],
+                          "attributes": {
+                            "style": "color:white",
+                            "type": "checkbox"
+                          },
+                          "id": "defaultCore.checkMe",
+                          "type": "input",
+                          "tiqoL-type": "input_checkbox",
+                          "onclick_action": false
+                        },
+                        {
+                          "insideText": "Check me!",
+                          "css": {},
+                          "children": [],
+                          "attributes": {
+							"style": "color:white"
+                          },
+                          "id": "defaultCore.checkBox_span",
+                          "type": "span",
+                          "tiqoL-type": "object",
+                          "onclick_action": false
+                        }
+                      ],
+                      "attributes": {},
+                      "id": "0782b98b-8b8a-42a0-b3b3-1bd7f48fe4da",
+                      "type": "label",
+                      "tiqoL-type": "object",
+                      "onclick_action": false
+                    },
+                    {
+                      "insideText": "",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                      	"type": "TEXT",
+                      	"style": "color:white"
+                      },
+                      "id": "defaultCore.textMe",
+                      "type": "input",
+                      "tiqoL-type": "input_text",
+                      "onclick_action": false
+                    }
+                  ],
+                  "attributes": {
+                    "class": "card-action"
+                  },
+                  "id": "3853c99a-e8d1-470b-9c83-1bd7f48fe4da",
+                  "type": "div",
+                  "tiqoL-type": "object"
+                }
+              ],
+              "attributes": {
+                "class": "card red darken-1"
+              },
+              "id": "0782b98b-8b8a-42a0-b3b3-74a2eba9033f",
+              "type": "div",
+              "tiqoL-type": "object"
+            },
+            {
+              "insideText": "",
+              "css": {},
+              "children": [
+                {
+                  "insideText": "",
+                  "css": {},
+                  "children": [
+                    {
+                      "insideText": "This page was made using materialize-css",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                        "class": "card-title"
+                      },
+                      "id": "40fda843-1d4e-4df6-ac00-ccbf48837a8a",
+                      "type": "span",
+                      "tiqoL-type": "object"
+                    },
+                    {
+                      "insideText": "Tiqo supports most CSS and JavaScript libaries while still being super responsive and fully controlled by the backend!",
+                      "css": {},
+                      "children": [],
+                      "attributes": {},
+                      "id": "5316dcb1-6e4a-4bfd-9b87-263e99728bc8",
+                      "type": "p",
+                      "tiqoL-type": "object"
+                    },
+                    {
+                      "insideText": "",
+                      "css": {},
+                      "children": [
+                        {
+                          "insideText": "HTMLBox defaultBox = new HTMLBox(server , user);",
+                          "css": {},
+                          "children": [],
+                          "attributes": {},
+                          "id": "685617a0-b482-40c4-b739-b6a535f02acf",
+                          "type": "xmp",
+                          "tiqoL-type": "object"
+                        },
+                        {
+                          "insideText": "defaultBox.fromJSON(new JSONObject(main.defaultSite));",
+                          "css": {},
+                          "children": [],
+                          "attributes": {},
+                          "id": "6a19293e-b169-4aed-8c34-ed96003eea21",
+                          "type": "xmp",
+                          "tiqoL-type": "object"
+                        },
+                        {
+                          "insideText": "user.addHeaderTag(\"<link href=\"url\" rel=\"stylesheet\">\");",
+                          "css": {},
+                          "children": [],
+                          "attributes": {},
+                          "id": "08509c5f-3b60-4987-9e49-b209e7d6564b",
+                          "type": "xmp",
+                          "tiqoL-type": "object"
+                        }
+                      ],
+                      "attributes": {
+                        "face": "consolas"
+                      },
+                      "id": "30f56179-e949-4fc9-ade2-3781053b09cb",
+                      "type": "font",
+                      "tiqoL-type": "object"
+                    }
+                  ],
+                  "attributes": {
+                    "class": "card-content"
+                  },
+                  "id": "278999a5-b20e-48af-8378-704a915808f1",
+                  "type": "div",
+                  "tiqoL-type": "object"
+                },
+                {
+                  "insideText": "",
+                  "css": {},
+                  "children": [
+                    {
+                      "insideText": "Materialze",
+                      "css": {},
+                      "children": [],
+                      "attributes": {
+                        "href": "https://materializecss.com/"
+                      },
+                      "id": "fa13c1ca-098e-44a4-8b96-a31b72596b39",
+                      "type": "a",
+                      "tiqoL-type": "object"
+                    }
+                  ],
+                  "attributes": {
+                    "class": "card-action"
+                  },
+                  "id": "c8324f77-c6e6-41a1-b75e-7b93a948e839",
+                  "type": "div",
+                  "tiqoL-type": "object"
+                }
+              ],
+              "attributes": {
+                "style": "color:black",
+                "class": "card"
+              },
+              "id": "866ee66d-699d-4d99-a209-ba7671c021dc",
+              "type": "div",
+              "tiqoL-type": "object"
             }
-         ],
-         "attributes":{  
-            "class":"row"
-         },
-         "id":"a9dad1f3-f0d6-493f-8def-8364d3c3a206",
-         "type":"div",
-         "tiqoL-type":"object"
-      }
-   ],
-   "attributes":{  
-      "style":"font-family : 'M PLUS Rounded 1c', sans-serif; color:white"
-   },
-   "id":"ce60a439-718b-46d4-803a-cc52abb5c9c2",
-   "type":"body",
-   "tiqoL-type":"object"
+          ],
+          "attributes": {
+            "class": "col s12 m6 offset-m3"
+          },
+          "id": "07567f8e-cb4a-4570-8e06-ec032025c8ee",
+          "type": "div",
+          "tiqoL-type": "object"
+        }
+      ],
+      "attributes": {
+        "class": "row"
+      },
+      "id": "a9dad1f3-f0d6-493f-8def-8364d3c3a206",
+      "type": "div",
+      "tiqoL-type": "object"
+    }
+  ],
+  "attributes": {
+    "style": "font-family : 'M PLUS Rounded 1c', sans-serif; color:white"
+  },
+  "id": "ce60a439-718b-46d4-803a-cc52abb5c9c2",
+  "type": "body",
+  "tiqoL-type": "object"
 }

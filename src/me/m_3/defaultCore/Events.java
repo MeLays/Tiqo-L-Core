@@ -9,6 +9,8 @@ import me.m_3.tiqoL.htmlbuilder.HTMLBody;
 import me.m_3.tiqoL.htmlbuilder.HTMLObject;
 import me.m_3.tiqoL.htmlbuilder.HTMLSpan;
 import me.m_3.tiqoL.htmlbuilder.box.HTMLBox;
+import me.m_3.tiqoL.htmlbuilder.input.HTMLCheckbox;
+import me.m_3.tiqoL.htmlbuilder.input.HTMLTextInput;
 import me.m_3.tiqoL.user.User;
 
 public class Events implements EventHandler {
@@ -28,7 +30,9 @@ public class Events implements EventHandler {
 			defaultBox.fromJSON(new JSONObject(main.defaultSite));
 			if (defaultBox.getDirectAccess().containsKey("defaultCore.clickCounter")) defaultBox.updateObject("defaultCore.clickCounter", defaultBox.getObject("defaultCore.clickCounter").setInnerText(main.clicks + " Clicks"), true);
 			if (defaultBox.getDirectAccess().containsKey("defaultCore.clickMe")) defaultBox.updateObject("defaultCore.clickMe", defaultBox.getObject("defaultCore.clickMe").setClickHandler(server.getEventManager(), main.clickHandler), true);
-
+			if (defaultBox.getDirectAccess().containsKey("defaultCore.checkMe")) defaultBox.updateObject("defaultCore.checkMe", ((HTMLCheckbox)defaultBox.getObject("defaultCore.checkMe")).setChecked(main.checked).setCheckboxHandler(server.getEventManager(), main.checkboxHandler), true);
+			if (defaultBox.getDirectAccess().containsKey("defaultCore.textMe")) defaultBox.updateObject("defaultCore.textMe", ((HTMLTextInput)defaultBox.getObject("defaultCore.textMe")).setTextInputHandler(server.getEventManager(), main.textInputHandler).setHtmlAttribute("value", main.text), true);
+			
 			if (defaultBox.getDirectAccess().containsKey("defaultCore.Welcome")) {
 				HTMLObject obj = defaultBox.getObject("defaultCore.Welcome");
 				
